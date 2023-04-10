@@ -1,3 +1,0 @@
-# OTUS GIT
-
-# new old
