@@ -1,3 +1,1 @@
-# OTUS GIT
-
-# new old
+# Создано в рамках курса OTUS JavaScript QA Engineer
