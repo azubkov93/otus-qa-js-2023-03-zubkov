@@ -7,7 +7,7 @@
 //     kolobok('дедушка') // Я от дедушки ушёл
 //     kolobok('лиса') // Меня съели
 
-function kolobok1 (name) {
+function kolobok1(name) {
     if (name === 'дедушка') {
         return 'Я от дедушки ушел'
     } else if (name === 'заяц') {
@@ -17,8 +17,8 @@ function kolobok1 (name) {
     }
 }
 
-function kolobok2 (name) {
-    switch(name) {
+function kolobok2(name) {
+    switch (name) {
         case 'дедушка':
             return 'Я от дедушки ушел'
         case 'заяц':
